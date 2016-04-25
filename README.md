@@ -9,3 +9,4 @@ curl https://raw.githubusercontent.com/Shougo/neobundle.vim/master/bin/install.s
 * For Linux,  a prompt should occur when you open vim to install neobundle and any defined bundles in your .vimrc.
 * Modify the .vimrc file to replace USER with your username.
 * Navigate to your ~/.vim/bundle/YouCompleteMe directory and run :  $  ./install.sh --clang-completer
+* For airline: https://powerline.readthedocs.org/en/latest/installation/linux.html#fonts-installation
